@@ -5,5 +5,6 @@ public class Hello {
 		System.out.println("hello sol");
 		System.out.println("hi master");
 		System.out.println("hi origin from git hub");
+		System.out.println("byr master");
 	}
 }
